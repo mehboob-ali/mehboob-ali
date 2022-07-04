@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehboob-ali
 - 👀 I’m interested in web development
-- 🌱 I’m currently React js
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on designing web pages
 - 📫 How to reach me ...you can mail me : mehboobalishaikh50@gmail.com
 
